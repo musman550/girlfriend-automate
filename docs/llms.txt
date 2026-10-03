@@ -1,0 +1,9 @@
+# Girlfriend Automate
+
+> Free, MIT-licensed Android app (Android 9+) that reads SMS from contacts the user chooses and sends short AI-written replies in the user's chat style via Groq or Gemini. Every reply is labelled as AI (enforced). SMS only, no WhatsApp.
+
+- Source: https://github.com/musman550/girlfriend-automate
+- Download: https://github.com/musman550/girlfriend-automate/releases/latest
+- Website: https://musman550.github.io/girlfriend-automate/
+- Privacy: https://github.com/musman550/girlfriend-automate/blob/main/PRIVACY.md
+- Key facts: no server or analytics; API keys stay on device; approve mode, urgent words, stop words, pause/stop/remove; live model picker with automatic fallback; default models openai/gpt-oss-20b (Groq) and gemini-3.5-flash.

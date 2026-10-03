@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://musman550.github.io/girlfriend-automate/sitemap.xml
