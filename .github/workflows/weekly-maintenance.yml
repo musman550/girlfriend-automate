@@ -30,7 +30,7 @@ jobs:
         run: |
           set -o pipefail
           gradle :app:assembleDebug --no-daemon 2>&1 | tee build.log
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
       - name: Run maintainer
